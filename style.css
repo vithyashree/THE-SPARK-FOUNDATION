@@ -1,0 +1,114 @@
+*{
+	margin: 0; 
+	padding:0;
+}
+.header{
+	background: #d63384;
+}
+.navbar-brand{
+	padding-left: 20px;
+	font-size: 65p;
+	font-style: oblique;
+
+}
+.navbar-toggler{
+	color: blue;
+}
+.nav-item{
+	margin-left:40px;
+	margin-bottom: 10px;
+}
+.nav-link{
+	color: #fff !important;
+	font-size: 20px !important;
+	padding: 0 0 5px 0 !important;
+	display: unset !important;
+
+}
+.active-home{
+	border-bottom: 2px solid #fff;
+}
+.nav-link:hover{
+	border-bottom: 2px solid #fff;
+}
+.banner{
+	padding-left: 5px;
+	margin-left: 9px;
+	text-align: left;
+}
+.banner h1{
+	margin: 80px 0 0px;
+	font-weight: 600;
+	font-size: 50px;
+}
+.banner img{
+	height: 400px;
+	width: 800px;
+}
+.banner a{
+	padding: 12px;
+	width: 150px;
+	display: inline-block;
+	background: #d63384;
+	text-decoration: none;
+	color: #fff;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	text-align: center;
+	margin-top: 30px;
+	font-weight: bold;
+}
+.banner a:hover{
+	color: #fff;
+}
+.express-btn{
+	background: black !important;
+	color: #000;
+	margin-right: 5px;
+}
+.service{
+     margin: 75px 0;
+}
+.title{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.subtitle{
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 30px;
+}
+.service-box{
+	padding: 0 35px;
+	cursor: pointer;
+	margin-bottom: 10px;
+}
+.service-box img{
+	width: 60px;
+	margin-top: 65px;
+	margin-bottom: 45px;
+}
+.service-box h6{
+	margin-bottom: 40px;
+	font-weight: bold;
+}
+.service-box p{
+	font-size: 14px;
+	color: #777;
+}
+.footer{
+	background: black;
+	padding: 50px;
+
+}
+.footer h2{
+	color: #fff;
+	font-weight:600;
+}
+.footer p{
+	color: #fff;
+}
+
+
+
